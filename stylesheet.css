@@ -92,7 +92,7 @@ p{
 .Sushi{
     background-color: rgba(0, 38, 255, 0.61);
 }
-@media (max-width: 991px) and (min-width: 768) {
+@media screen and (min-width: 768px) and (max-width: 991px) {
     .col-md-01,.col-md-02,.col-md-03,.col-md-04,.col-md-05,
     .col-md-06,.col-md-07,.col-md-08,.col-md-09,.col-md-10,
     .col-md-11,.col-md-12 {
